@@ -14,7 +14,7 @@ A fun and engaging tapping game built with Flutter. Challenge yourself to tap on
 
 Here are some screenshots of the game:
 
-<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(2, 2fr); gap: 10px;">
 
   <div>
     <img src="assets/images/1.jpg" alt="Start Screen" style="width: 100%; height: auto;">

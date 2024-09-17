@@ -11,17 +11,33 @@ A fun and engaging tapping game built with Flutter. Challenge yourself to tap on
 - **Visual Enhancements**: Attractive gradients, game-themed buttons, and animated transitions.
 
 ## Screenshots
+
 Here are some screenshots of the game:
 
-- **Start Screen**:
-  ![Start Screen](assets/images/1.jpg)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
 
-- **In-Game**:
-  ![In-Game](assets/images/2.jpg)
-   ![In-Game](assets/images/3.jpg)
+  <div>
+    <img src="assets/images/1.jpg" alt="Start Screen" style="width: 100%; height: auto;">
+    <p>Start Screen</p>
+  </div>
+  
+  <div>
+    <img src="assets/images/2.jpg" alt="In-Game" style="width: 100%; height: auto;">
+    <p>In-Game</p>
+  </div>
+  
+  <div>
+    <img src="assets/images/3.jpg" alt="In-Game" style="width: 100%; height: auto;">
+    <p>In-Game</p>
+  </div>
+  
+  <div>
+    <img src="assets/images/4.jpg" alt="Game Over" style="width: 100%; height: auto;">
+    <p>Game Over</p>
+  </div>
 
-- **Game Over Screen**:
-  ![Game Over](assets/images/4.jpg)
+</div>
+
 
 ## Getting Started
 

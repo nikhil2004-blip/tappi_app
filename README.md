@@ -14,29 +14,30 @@ A fun and engaging tapping game built with Flutter. Challenge yourself to tap on
 
 Here are some screenshots of the game:
 
-<div style="display: grid; grid-template-columns: repeat(2, 2fr); gap: 10px;">
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
 
   <div>
-    <img src="assets/images/1.jpg" alt="Start Screen" style="width: 100%; height: auto;">
+    <img src="assets/images/1.jpg" alt="Start Screen" style="width: 30%; max-width: 100px; height: 400px;">
     <p>Start Screen</p>
   </div>
   
   <div>
-    <img src="assets/images/2.jpg" alt="In-Game" style="width: 100%; height: auto;">
+    <img src="assets/images/2.jpg" alt="In-Game" style="width: 30%; max-width: 100px; height: 400px;">
     <p>In-Game</p>
   </div>
   
   <div>
-    <img src="assets/images/3.jpg" alt="In-Game" style="width: 100%; height: auto;">
+    <img src="assets/images/3.jpg" alt="In-Game" style="width: 30%; max-width: 100px; height: 400px;">
     <p>In-Game</p>
   </div>
   
   <div>
-    <img src="assets/images/4.jpg" alt="Game Over" style="width: 100%; height: auto;">
+    <img src="assets/images/4.jpg" alt="Game Over" style="width: 30%; max-width: 100px; height: 400px;">
     <p>Game Over</p>
   </div>
 
 </div>
+
 
 
 
